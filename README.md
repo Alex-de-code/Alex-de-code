@@ -1,10 +1,8 @@
 ![solarpunk](https://media3.giphy.com/media/hq7O4BvUNmjLicWaST/giphy.gif?cid=6104955eqhcbzuiaci3z4w7tdm1qwvjjtq06i41bqdr2hiwx&ep=v1_gifs_translate&rid=giphy.gif&ct=g)
-
-https://media3.giphy.com/media/hq7O4BvUNmjLicWaST/giphy.gif?cid=6104955eqhcbzuiaci3z4w7tdm1qwvjjtq06i41bqdr2hiwx&ep=v1_gifs_translate&rid=giphy.gif&ct=g
-<iframe src="https://giphy.com/embed/hq7O4BvUNmjLicWaST" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theline-thelineanimation-solarpunk-dear-alice-hq7O4BvUNmjLicWaST">via GIPHY</a></p>
+![solarpunk2](https://media1.giphy.com/media/hDotW2b4lllx8dOBTD/giphy.gif?cid=6104955emptt74y8ulvxteg71fngzi7umvbra217relo9eq7&ep=v1_gifs_translate&rid=giphy.gif&ct=g)
 
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">A passionate full stack developer from NYC</h3>
+<h3 align="center">A passionate full stack developer from NYC focused on making positive impacts on our communities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-de-code&label=Profile%20views&color=0e75b6&style=flat" alt="alex-de-code" /> </p>
 
