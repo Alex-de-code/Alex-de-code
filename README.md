@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:140%;position:relative;"><iframe src="https://giphy.com/embed/pI43YlhMoPqsE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pixel-art-scenery-pI43YlhMoPqsE">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/pI43YlhMoPqsE" width="344" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixel-art-scenery-pI43YlhMoPqsE">via GIPHY</a></p>
 
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A passionate full stack developer from NYC</h3>
