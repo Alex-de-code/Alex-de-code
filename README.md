@@ -1,5 +1,8 @@
-![solarpunk](https://media3.giphy.com/media/hq7O4BvUNmjLicWaST/giphy.gif?cid=6104955eqhcbzuiaci3z4w7tdm1qwvjjtq06i41bqdr2hiwx&ep=v1_gifs_translate&rid=giphy.gif&ct=g)
-![solarpunk2](https://media1.giphy.com/media/hDotW2b4lllx8dOBTD/giphy.gif?cid=6104955emptt74y8ulvxteg71fngzi7umvbra217relo9eq7&ep=v1_gifs_translate&rid=giphy.gif&ct=g)
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://media3.giphy.com/media/hq7O4BvUNmjLicWaST/giphy.gif?cid=6104955eqhcbzuiaci3z4w7tdm1qwvjjtq06i41bqdr2hiwx&ep=v1_gifs_translate&rid=giphy.gif&ct=g" alt="solarpunk" width="400" />
+    <img src="https://media1.giphy.com/media/hDotW2b4lllx8dOBTD/giphy.gif?cid=6104955emptt74y8ulvxteg71fngzi7umvbra217relo9eq7&ep=v1_gifs_translate&rid=giphy.gif&ct=g" alt="solarpunk2" width="400" />
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A passionate full stack developer from NYC focused on making positive impacts on our communities</h3>
