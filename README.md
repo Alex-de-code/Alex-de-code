@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alex-de-code" alt="alex-de-code" /></a> </p>
 
-- 🔭 I’m currently working & open to collaborating on [Tale Blazers](https://taleblazers.netlify.app/)
+- 🔭 I’m currently working on & open to collaborating on [Tale Blazers](https://taleblazers.netlify.app/)
 
 - 🌱 I’m currently learning **Data Structures & Algorithms + more frontend wizardry**
 
