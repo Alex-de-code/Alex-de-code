@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">A passionate full stack developer from NYC focused on making positive impacts on our communities</h3>
+<h3 align="center">A passionate full stack developer from NYC focused on making positive impacts in our communities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-de-code&label=Profile%20views&color=0e75b6&style=flat" alt="alex-de-code" /> </p>
 
